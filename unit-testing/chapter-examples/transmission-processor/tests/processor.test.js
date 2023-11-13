@@ -1,5 +1,8 @@
 describe("transmission processor", function() {
 
-   //  TODO: put tests here
- 
+ test("takes a string returns an object", function() {
+  
+
+ });
+
  });

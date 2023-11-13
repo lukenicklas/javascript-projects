@@ -70,12 +70,10 @@ if (!preparedForLiftOff) {
     console.log(divider);
     console.log("Have a safe trip astronauts!");
 
-    
-    
-
 }
 
 
+    
 
 
 // add logic below to verify the total mass does not exceed the maximum limit of 850000
